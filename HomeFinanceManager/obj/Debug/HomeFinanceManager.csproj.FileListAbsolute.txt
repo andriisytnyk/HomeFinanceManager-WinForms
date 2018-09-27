@@ -159,3 +159,27 @@ E:\Alexandr\Repo\allprojects\HomeFinanceManager 3.0\HomeFinanceManager\obj\Debug
 E:\Alexandr\Repo\allprojects\HomeFinanceManager 3.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojAssemblyReference.cache
 E:\Alexandr\Repo\allprojects\HomeFinanceManager 3.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.CoreCompileInputs.cache
 E:\Alexandr\Repo\allprojects\HomeFinanceManager 3.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.CopyComplete
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe.config
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\HomeFinanceManager.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\EntityFramework.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\log4net.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\TxtWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\XmlWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\EntityFramework.xml
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\log4net.xml
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\MySql.Data.xml
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\MySql.Web.xml
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\TxtWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\bin\Debug\XmlWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojAssemblyReference.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.Forms.FormLog.resources
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.Forms.FormMain.resources
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.Forms.FormReg.resources
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.Properties.Resources.resources
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.GenerateResource.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.CopyComplete
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.exe
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\HomeFinanceManager\obj\Debug\HomeFinanceManager.pdb

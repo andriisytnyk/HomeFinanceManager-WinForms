@@ -15,3 +15,9 @@ E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
 E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.csprojResolveAssemblyReference.cache
 E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.dll
 E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\obj\Debug\XmlWriterReader.csprojAssemblyReference.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\obj\Debug\XmlWriterReader.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\XmlWriterReader\obj\Debug\XmlWriterReader.pdb

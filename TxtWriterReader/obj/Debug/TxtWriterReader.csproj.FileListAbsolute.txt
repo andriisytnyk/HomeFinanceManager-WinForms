@@ -15,3 +15,9 @@ E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\bin\Debug\TxtWriterReader.dll
 E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
 E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\obj\Debug\TxtWriterReader.dll
 E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\obj\Debug\TxtWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\obj\Debug\TxtWriterReader.csprojAssemblyReference.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\obj\Debug\TxtWriterReader.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+C:\Users\Andrii\Documents\GitHub\HomeFinanceManager-WinForms\TxtWriterReader\obj\Debug\TxtWriterReader.pdb
